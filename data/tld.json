@@ -2904,7 +2904,7 @@
   },
   "insurance": {
     "_type": "newgtld",
-    "host": "whois.nic.insurance"
+    "host": "whois.ftld.dnrs.neustar"
   },
   "insure": {
     "_group": "donuts",

@@ -448,7 +448,7 @@
   },
   "bank": {
     "_type": "newgtld",
-    "host": "whois.nic.bank"
+    "host": "whois.ftld.dnrs.neustar"
   },
   "bar": {
     "_type": "newgtld",
@@ -3362,7 +3362,7 @@
   },
   "lifestyle": {
     "_type": "newgtld",
-    "host": "whois.nic.lifestyle"
+    "host": "whois.nic.lifestyle" 
   },
   "lighting": {
     "_group": "donuts",
